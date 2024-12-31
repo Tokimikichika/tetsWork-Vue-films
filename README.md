@@ -14,19 +14,18 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/Tokimikichika/tetsWork-Vue-films.git
-   ```
+
 
 Перейдите в директорию проекта:
    ```bash
    cd movie-app
-    ````
+
 
 Установите зависимости:
    ```bash
    npm install
-    ```
+
 ## Запуск проекта
 
     ```bash
     npm run serve
-    ```
