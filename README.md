@@ -27,6 +27,6 @@
    ```
 
 ## Запуск проекта
-    ```bash
-    npm run serve
-    ```
+   ```bash
+   npm run serve
+   ```
