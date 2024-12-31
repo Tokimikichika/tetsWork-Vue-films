@@ -11,7 +11,7 @@
 
 Для установки проекта выполните следующие шаги:
 
-1. Клонируйте репозиторий:
+Клонируйте репозиторий:
    ```bash
    git clone https://github.com/Tokimikichika/tetsWork-Vue-films.git
    ```
