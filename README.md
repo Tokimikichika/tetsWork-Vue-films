@@ -1,5 +1,29 @@
-# Vue 3 + TypeScript + Vite
+# Movie App
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Этот проект представляет собой фронтенд для веб-сайта, который отображает список фильмов и их детали. Проект создан с использованием Vue 3, Vue Router и TypeScript.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## Оглавление
+
+- [Установка](#установка)
+- [Запуск проекта](#запуск-проекта)
+
+## Установка
+
+Для установки проекта выполните следующие шаги:
+
+1. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/Tokimikichika/tetsWork-Vue-films.git
+
+   Перейдите в директорию проекта:
+   ```bash
+   cd movie-app
+
+   Установите зависимости:
+   ```bash
+   npm install
+
+## Запуск проекта
+
+    ```bash
+    npm run serve
